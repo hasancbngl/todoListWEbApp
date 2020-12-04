@@ -37,14 +37,14 @@ input{
   }
 
 
-/* Clear floats after the header 
+ Clear floats after the header 
   .header:after {
     content: "";
     display: table;
     clear: both;
   }
 
-  */
+  
 
 
   ul{
